@@ -4,5 +4,7 @@
   "Главная": "Home",
   "Язык": "English",
   "Перевод": "Translation",
-  "Страница не найдена": "Page wasn't found"
+  "Страница не найдена": "Page wasn't found",
+  "Произошла непредвиденная ошибка": "unexpected error",
+  "Обновить страницу": "reload page"
 }
